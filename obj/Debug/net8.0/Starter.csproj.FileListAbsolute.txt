@@ -1,0 +1,14 @@
+C:\Coding\Practice\DebugCSharpWithVSCodeChallengeProject\bin\Debug\net8.0\Starter.exe
+C:\Coding\Practice\DebugCSharpWithVSCodeChallengeProject\bin\Debug\net8.0\Starter.deps.json
+C:\Coding\Practice\DebugCSharpWithVSCodeChallengeProject\bin\Debug\net8.0\Starter.runtimeconfig.json
+C:\Coding\Practice\DebugCSharpWithVSCodeChallengeProject\bin\Debug\net8.0\Starter.dll
+C:\Coding\Practice\DebugCSharpWithVSCodeChallengeProject\bin\Debug\net8.0\Starter.pdb
+C:\Coding\Practice\DebugCSharpWithVSCodeChallengeProject\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\Practice\DebugCSharpWithVSCodeChallengeProject\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+C:\Coding\Practice\DebugCSharpWithVSCodeChallengeProject\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+C:\Coding\Practice\DebugCSharpWithVSCodeChallengeProject\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+C:\Coding\Practice\DebugCSharpWithVSCodeChallengeProject\obj\Debug\net8.0\Starter.dll
+C:\Coding\Practice\DebugCSharpWithVSCodeChallengeProject\obj\Debug\net8.0\refint\Starter.dll
+C:\Coding\Practice\DebugCSharpWithVSCodeChallengeProject\obj\Debug\net8.0\Starter.pdb
+C:\Coding\Practice\DebugCSharpWithVSCodeChallengeProject\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+C:\Coding\Practice\DebugCSharpWithVSCodeChallengeProject\obj\Debug\net8.0\ref\Starter.dll
